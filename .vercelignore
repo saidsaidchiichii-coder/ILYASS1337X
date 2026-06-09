@@ -1,0 +1,4 @@
+# Ignore backup files from Vercel deployment
+api/*.backup.js
+backups/
+node_modules/

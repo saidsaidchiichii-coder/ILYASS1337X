@@ -1,0 +1,13 @@
+{
+  "name": "manus-clone",
+  "version": "1.0.0",
+  "description": "A clone of the Manus AI platform interface",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 8080 -o",
+    "serve": "npx http-server -p 8080"
+  },
+  "keywords": ["manus", "ai", "agent", "platform", "ui"],
+  "author": "saidsaidchiichii-coder",
+  "license": "MIT"
+}
